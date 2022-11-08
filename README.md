@@ -7,3 +7,10 @@ Metaverse Game for Disaster Safety Education
 실행 시 로블록스 플레이어가 필요합니다.
 
 # ScreenShots
+
+
+![화재1](https://user-images.githubusercontent.com/95402939/200560331-a995d1de-1b04-4989-80df-16b63b76ea71.jpg)
+![화재2](https://user-images.githubusercontent.com/95402939/200560338-b84484b5-5d26-4755-b935-36767d17ce20.jpg)
+
+![지진1](https://user-images.githubusercontent.com/95402939/200560315-ef2adbc3-cc4a-43ab-b2bc-b238be655a06.jpg)
+![지진2](https://user-images.githubusercontent.com/95402939/200560320-3e065823-5be8-4f43-8910-40b4be56a14c.jpg)
